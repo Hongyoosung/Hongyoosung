@@ -7,7 +7,7 @@
  
  <div align="center"><sdfdf> 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongyoosung&layout=&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongyoosung&layout=Demo&theme=dark)
 
  
 
