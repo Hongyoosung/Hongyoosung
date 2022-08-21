@@ -9,9 +9,9 @@
  
 
 
-  
+  [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hys8623)](https://solved.ac/hys8623)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongyoosung&show_icons=true&theme=dark)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hys8623)](https://solved.ac/hys8623)
+
 
 </div>
 
