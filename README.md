@@ -10,6 +10,6 @@
  
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongyoosung&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongyoosung&show_icons=true&theme=dark)
 
 
