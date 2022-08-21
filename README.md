@@ -7,7 +7,8 @@
  
  <div align="center"><sdfdf> 
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongyoosung)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongyoosung&layout=&theme=dark)
+
  
 
   [![Solved.ac
