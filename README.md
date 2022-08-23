@@ -14,8 +14,10 @@
 
 + ## Study
 
+<img src="https://img.shields.io/badge/Unity -000000?style=for-the-badge&logo=Unity #&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/C++-262577?style=for-the-badge&logo=C #&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/Css -452170?style=for-the-badge&logo=C #&logoColor=000000"/></a>
+
 
 + ## Platform
  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/ad5e63e6f19b42979cfd720c304acbee?v=3d131c1826c741ed8930b6329cd3880a)
