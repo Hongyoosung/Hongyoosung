@@ -2,15 +2,15 @@
  
  # **Yoosung - H** 
  
-  > *Department of Game Engineering*
+ >+ *Department of Game Engineering*
  >
- > *Hopes : Game Planner*
+ >+ *Hopes : Game Planner*
  >
- > *LOL Diamond Class Season 5, 7*
+ >+ *LOL Diamond Class Season 5, 7*
  >
- > *MapleStory Highest level : 251*
+ >+ *MapleStory Highest level : 251*
  >
- > *Starcraft Race : Zerg*
+ >+ *Starcraft Race : Zerg*
 
 + ## Study
 
