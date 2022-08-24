@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/Unity -000000?style=for-the-badge&logo=Unity #&logoColor=000000"/></a>
 <img src="https://img.shields.io/badge/C++-262577?style=for-the-badge&logo=C #&logoColor=000000"/></a>
-<img src="https://img.shields.io/badge/Css -452170?style=for-the-badge&logo=C #&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/C -452170?style=for-the-badge&logo=C #&logoColor=000000"/></a>
 
 
 + ## Platform
