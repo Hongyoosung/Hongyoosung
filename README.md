@@ -41,8 +41,6 @@
 
 
 
-+ ## Baekjoon
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hys8623)](https://solved.ac/hys8623)
 
 
