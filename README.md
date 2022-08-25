@@ -30,7 +30,7 @@
 
 
 + ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongyoosung&show_icons=false&theme=github_dark&title_color=FFFFFF&border_color=000000&hide_border=false&border_radius=10&hide_title=false&line_height=22&)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongyoosung&show_icons=false&theme=github_dark&title_color=FFFFFF&border_color=000000&hide_border=false&border_radius=10&hide_title=false&line_height=22&count_private=true)
 
 
 
