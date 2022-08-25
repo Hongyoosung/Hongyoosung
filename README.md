@@ -23,9 +23,7 @@
  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/ad5e63e6f19b42979cfd720c304acbee?v=3d131c1826c741ed8930b6329cd3880a)
  <a href="https://www.instagram.com/hongyoosung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 
-+ ## Baekjoon
 
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hys8623)](https://solved.ac/hys8623)
 
 
 
@@ -33,6 +31,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongyoosung&show_icons=false&theme=github_dark&title_color=BBBFFD&border_color=C1EDFA&hide_border=false&border_radius=10&hide_title=false&line_height=22&count_private=true&text_color=7076C2&)
 
 
++ ## Baekjoon
 
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=hys8623)](https://solved.ac/hys8623)
 
 
