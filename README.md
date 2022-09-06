@@ -6,7 +6,7 @@
  >
  >+ *Hopes : Game Planner*
  >
- >+ *LOL Diamond Class Season 5, 7*
+ >+ *LOL Diamond Tier Season 5, 7*
  >
  >+ *MapleStory Highest level : 251*
  >
