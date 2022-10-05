@@ -10,7 +10,7 @@
  >
  >+ *MapleStory Highest level : 251*
  >
- >+ *Starcraft Race : Zerg*
+ >+ *Starcraft Race : Zerg
 
 + ## Study
 
