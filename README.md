@@ -4,7 +4,7 @@
  
  >+ *Department of Game Engineering*
  >
- >+ *Hopes : Game Planner*..................
+ >+ *Hopes : Game Planner*...................
  >
  >+ *LOL Diamond Tier Season 5, 7*
  >
