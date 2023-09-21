@@ -19,7 +19,7 @@
 
 
 + ## Platform
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]([https://hyss.notion.site/Yoosung-H-df9b2433b8be4b72858ab7764632862f](https://www.notion.so/hyss/Yoosung-H-df9b2433b8be4b72858ab7764632862f)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/Yoosung-H-df9b2433b8be4b72858ab7764632862f](https://www.notion.so/hyss/Yoosung-H-df9b2433b8be4b72858ab7764632862f)
  <a href="https://www.instagram.com/hongyoosung/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 
 
