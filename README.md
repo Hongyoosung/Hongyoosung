@@ -26,12 +26,6 @@
 
 
 
-+ ## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hongyoosung&show_icons=false&theme=github_dark&title_color=BBBFFD&border_color=C1EDFA&hide_border=false&border_radius=10&hide_title=false&line_height=22&count_private=true&text_color=7076C2&)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hongyoosung&layout=compact&card_width=445&theme=github_dark&title_color=BBBFFD&border_color=C1EDFA&)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
