@@ -3,14 +3,13 @@
  # **Yoosung - H** 
  
  >+ *Department of Game Engineering*
+ >+ *Hope : Game Programmer*
  >
- >+ *Hopes : Game Programmer*.....
+ >+ *Interest : Artificial Intelligence, Game Engine, Framework*
  >
- >+ *LOL Diamond Tier Season 5, 7*
+ >+ *E-mail : yoosung5508@gmail.com*
  >
- >+ *MapleStory Highest level : 251*
- >
- >+ *Starcraft Race : Zerg*
+
 
 + ## Study
 
