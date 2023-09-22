@@ -1,6 +1,6 @@
 
  
- # **Yoosung - H** 
+ + ## Introduction 
  
  >+ *Department of Game Engineering*
  >+ *Hope : Game Programmer*
@@ -11,11 +11,14 @@
  >
 
 
+<br/>
+
 + ## Study
 
 <img src="https://img.shields.io/badge/Unity -000000?style=for-the-badge&logo=Unity #&logoColor=000000"/></a>
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+<br/>
 
 + ## Platform
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/Yoosung-H-df9b2433b8be4b72858ab7764632862f)
