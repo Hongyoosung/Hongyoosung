@@ -4,7 +4,7 @@
  + ## Introduction 
  
  >+ *Department of Game Engineering*
- >+ *Hope : Game clietn Programmer*
+ >+ *Hope : Game client Programmer*
  >
  >+ *Interest : Artificial Intelligence, Game Engine, Framework*
  >
