@@ -27,7 +27,7 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23000000.svg?style=for-the-badge&logo=opengl&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23313131?style=for-the-badge&logo=python&logoColor=white)
 
-<br/>
+
 
 + ## Platform
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/Yoosung-H-df9b2433b8be4b72858ab7764632862f)
