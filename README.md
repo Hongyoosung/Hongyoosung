@@ -1,5 +1,4 @@
-
- + ## Introduction 
++ ## Introduction 
  
  >+ *Department of Game Engineering*
  >+ *Hope : Game client Programmer*
