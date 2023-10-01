@@ -18,10 +18,13 @@
 
 <br/>
 
-![C++](https://img.shields.io/badge/c++-%23313131.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23313131.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23000000.svg?style=for-the-badge&logo=opengl&logoColor=white)
+
+<br/>
+
+![C++](https://img.shields.io/badge/c++-%23313131.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23313131?style=for-the-badge&logo=python&logoColor=white)
 
 
