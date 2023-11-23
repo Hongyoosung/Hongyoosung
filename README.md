@@ -1,4 +1,3 @@
-7
 + ## Introduction 
  
  >+ *Department of Game Engineering.*
