@@ -1,9 +1,9 @@
 + ## Introduction 
  
  >+ *Department of Game Engineering.*
- >+ *Hope : Game client Programmer*
+ >+ *Hope : Game Client Programmer*
  >
- >+ *Interest : Artificial Intelligence, BlockChain, Game Engine, Telecommunications*
+ >+ *Interest : Game Artificial Intelligence, BlockChain, Game Engine, Telecommunications*
  >
  >+ *E-mail : yoosung5508@gmail.com*
  >
