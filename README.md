@@ -6,7 +6,7 @@
  >+ *Interest : Game Artificial Intelligence, BlockChain, Game Engine, Telecommunications*
  >
  >+ *E-mail : yoosung5508@gmail.com*
- >
+ >.
 
 
 <br/>
