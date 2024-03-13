@@ -1,7 +1,7 @@
 + ## Introduction 
  
  >+ *Department of Game Engineering.*
- >+ *Hope : Game Client Programmer*
+ >+ *Hope : Game Programmer*
  >
  >+ *Interest : Game AI, Generative AI, Game Engine, Block Chain*.
  >
