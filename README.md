@@ -41,7 +41,9 @@
 
 <br/>
 
-
++ ## Published
+  - [GOBT: A Synergistic Approach to Game AI Using Goal-Oriented and Utility-Based Planning in Behavior Trees](https://www.jmis.org/archive/view_article?pid=jmis-10-4-321)
+ 
 
 
 
