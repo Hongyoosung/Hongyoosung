@@ -3,7 +3,7 @@
  >+ *Department of Game Engineering.*
  >+ *Hope : Game Programmer*
  >
- >+ *Interest : Game AI, Generative AI, Game Engine, Block Chain*.
+ >+ *Interest : Game AI, Generative AI, VR, Block Chain*.
  >
  >+ *E-mail : yoosung5508@gmail.com*
  >
