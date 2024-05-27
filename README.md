@@ -10,7 +10,7 @@
 >
 > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&height=30&lines=Interest%3A+Game+AI%2C+Generative+AI%2C+VR%2C+BlockChain)](https://git.io/typing-svg)
 >
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D4&random=false&width=450&height=30&lines=Email%3A+yoosung5508%40gmail.com)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&height=30&lines=Email%3A+yoosung5508%40gmail.com)](https://git.io/typing-svg)
 
 
 
