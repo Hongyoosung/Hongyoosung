@@ -16,7 +16,7 @@
 
 <br/>
 
-+ ## Study
++ ## Skil
 
 
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
