@@ -1,8 +1,6 @@
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=40&duration=2500&pause=1000&color=F2F7F1&random=false&width=450&lines=Game+Developer;Game+AI;Research+and+Development;Generative+AI%2C+VR%2C+BlockChain)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&duration=2500&pause=1000&color=F2F7F1&background=0B010E00&random=false&width=450&lines=Game+Developer;Game+AI;Research+and+Development;Generative+AI%2C+VR%2C+BlockChain)](https://git.io/typing-svg)
 
 + ## Introduction 
  
