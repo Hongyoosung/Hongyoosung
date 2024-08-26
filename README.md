@@ -3,7 +3,7 @@
 + ## Introduction 
  > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&height=30&lines=Department+of+Game+Engineering)](https://git.io/typing-svg)
 >
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&height=30&lines=Hope%3A+Game+Programmer)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&hright=30&lines=Explore%2C+find%2C+and+eat)](https://git.io/typing-svg)
 >
 > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&pause=5000&color=9D9F9D&random=false&width=450&height=30&lines=Interest%3A+Game+AI%2C+Generative+AI%2C+VR%2C+BlockChain)](https://git.io/typing-svg)
 
