@@ -34,7 +34,7 @@
 + ## Platform
 
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/df9b2433b8be4b72858ab7764632862f?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]([https://hyss.notion.site/df9b2433b8be4b72858ab7764632862f?pvs=4](https://hyss.notion.site/Yoosung-Library-df9b2433b8be4b72858ab7764632862f?pvs=4))
 ![GitHub](https://img.shields.io/badge/github-%23313131.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
