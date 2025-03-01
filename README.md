@@ -10,7 +10,7 @@
 
 <br/>
 
-+ ## Skil
++ ## Skils
 
 
 ![C++](https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
@@ -29,7 +29,7 @@
 
 
 
-+ ## Platform
++ ## Platforms
 
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/Yoosung-Library-df9b2433b8be4b72858ab7764632862f?pvs=4)
